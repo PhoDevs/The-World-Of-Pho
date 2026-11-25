@@ -42,6 +42,6 @@ Available builds:
 
 ## License
 
-Copyright (c) 2026 Anthony Tabler. All rights reserved.
+Copyright (c) 2026 Tucker Bamberg and Anthony Tabler. All rights reserved.
 
 This project is proprietary. You may **not** use, copy, modify, distribute, or profit from any part of the source code or assets without explicit permission from the copyright holder. See [`LICENSE`](LICENSE) for details.
