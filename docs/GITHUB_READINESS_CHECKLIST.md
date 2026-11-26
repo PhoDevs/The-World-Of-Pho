@@ -55,7 +55,7 @@ Currently, `WorldOfPho` does not have its own isolated `.git` repository (it acc
 
 Loose planning text files, abandoned file copies, and debug test logs clutter the root directory and make the repository look untidy.
 
-### Checklistƒ
+### Checklist
 
 - [x] **2.1 Delete Dead / Temporary Files**:
   - Delete `scripts/player_data - Copy.gd` (abandoned 1,368-line copy from August 2026).
