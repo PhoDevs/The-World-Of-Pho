@@ -4,7 +4,7 @@ A mobile-first strategic board-battle and idle town-economy game.
 
 Combine turn-based tactical grid battles against AI or online opponents with a rich incremental town—featuring farming, mining, gem crafting, horse racing, guilds, and a player-driven online marketplace.
 
----
+---g
 
 ## Download
 
